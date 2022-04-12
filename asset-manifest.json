@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SilentWatcher/portfolio.git/static/css/main.1c00697b.css",
+    "main.js": "/SilentWatcher/portfolio.git/static/js/main.2f150a7d.js",
+    "static/js/787.bc412fff.chunk.js": "/SilentWatcher/portfolio.git/static/js/787.bc412fff.chunk.js",
+    "static/media/vikas.jpeg": "/SilentWatcher/portfolio.git/static/media/vikas.2da0d7c3d1bca4007d56.jpeg",
+    "static/media/blob-scene-haikei.svg": "/SilentWatcher/portfolio.git/static/media/blob-scene-haikei.e5718c5c2c51d57b112f.svg",
+    "static/media/InstagramIcon.svg": "/SilentWatcher/portfolio.git/static/media/InstagramIcon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/github.svg": "/SilentWatcher/portfolio.git/static/media/github.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/TwitterIcon.svg": "/SilentWatcher/portfolio.git/static/media/TwitterIcon.3f40423293e1813898c7e26f729a0705.svg",
+    "index.html": "/SilentWatcher/portfolio.git/index.html",
+    "static/media/linkedin.svg": "/SilentWatcher/portfolio.git/static/media/linkedin.19612fdb23c98848437a9163121397e7.svg",
+    "static/media/facebook.svg": "/SilentWatcher/portfolio.git/static/media/facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/childdiv.svg": "/SilentWatcher/portfolio.git/static/media/childdiv.72ad0a5c20d77aad8ed6.svg",
+    "static/media/email.svg": "/SilentWatcher/portfolio.git/static/media/email.846a955c4693e3e17b7a7bed034ef5e4.svg",
+    "main.1c00697b.css.map": "/SilentWatcher/portfolio.git/static/css/main.1c00697b.css.map",
+    "main.2f150a7d.js.map": "/SilentWatcher/portfolio.git/static/js/main.2f150a7d.js.map",
+    "787.bc412fff.chunk.js.map": "/SilentWatcher/portfolio.git/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c00697b.css",
+    "static/js/main.2f150a7d.js"
+  ]
+}
